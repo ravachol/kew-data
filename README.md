@@ -1,10 +1,19 @@
+<div align="center">
+  <img src="images/logo.png" alt="kew Logo">
+</div>
+
+<br>
+
+
 ## About kew-data
 
 - Database size: 9MB
 - Homepage Urls: 162 000
 - Data License: WIKIDATA CC BY-SA 4.0.
 
-### For Package Maintainers
+### For Package Maintainers  
+
+This repo is a bonus for listeners and music artists and is recommended as a optional dependency to kew. 
 
 All the stuff that's needed to reproduce the artists.db binary is included in the /data folder. .tsv file, scripts, the works. There's a guide below on how to reproduce the exact same binary.
 
@@ -64,4 +73,13 @@ Then run sha256sum artists.db
 
 You should get:
 d77f09e0aeaf14b445642aaa13ba195e5b10c09ba799e02d785102a7355d86c9  artists.db
+
+## License
+
+Licensed under GPLv2+. [See LICENSE for more information](./LICENSE).
+
+
+## Wikidata License
+
+ WIKIDATA CC BY-SA 4.0. [See WIKIDATA LICENSE for more information](./WIKIDATA_LICENSE_CC_BY-SA_4.0.txt).
 
