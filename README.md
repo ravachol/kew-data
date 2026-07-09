@@ -4,7 +4,7 @@
 
 <br>
 
-[![License](https://img.shields.io/github/license/ravachol/kew?color=333333&style=for-the-badge)](./LICENSE)[![WikiData License](https://img.shields.io/github/license/ravachol/kew?color=333333&style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/github/license/ravachol/kew?color=333333&style=for-the-badge)](./LICENSE)
 
 ## About kew-data
 
@@ -14,7 +14,7 @@
 
 ### For Package Maintainers  
 
-This repo is a bonus for listeners and music artists and is recommended as a optional dependency to kew. 
+This repo is a bonus for listeners and music artists and is recommended as an optional dependency to kew. 
 
 All the stuff that's needed to reproduce the artists.db binary is included in the /data folder. .tsv file, scripts, the works. There's a guide below on how to reproduce the exact same binary.
 
