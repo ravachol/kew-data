@@ -4,6 +4,7 @@
 
 <br>
 
+[![License](https://img.shields.io/github/license/ravachol/kew?color=333333&style=for-the-badge)](./LICENSE)[![WikiData License](https://img.shields.io/github/license/ravachol/kew?color=333333&style=for-the-badge)](./LICENSE)
 
 ## About kew-data
 
