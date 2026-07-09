@@ -1,4 +1,4 @@
-## About the artist data
+## About kew-data
 
 - Database size: 9MB
 - Homepage Urls: 162 000
