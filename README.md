@@ -24,13 +24,9 @@ To help artists economically and give a way for listeners to connect to artists.
 
 ### Skipping the database
 
-if you don't want to use the database, set:
+if you don't want to use the database, don't install this, or set:
 
-useartistsdb=0
-
-Or compile kew with:
-
-make install USE_DB=0 -j
+useartistsdb=0 in kew's kewrc settings file.
 
 kew works just as well without it.
 
