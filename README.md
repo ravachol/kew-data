@@ -12,6 +12,22 @@
 - Homepage Urls: 162 000
 - Data License: WIKIDATA CC BY-SA 4.0.
 
+It provides a clickable artist field for artists that have a homepage listed on Wikipedia, in the track view of [kew](https://kewplayer.com).
+
+### How to Install
+
+```
+
+git clone https://codeberg.org/ravachol/kew-data.git
+
+cd kew-data
+
+make install
+
+```
+
+kew should now (after version 4.2.0) enable clickable artists links.
+
 ### For Package Maintainers  
 
 This repo is a bonus for listeners and music artists and is recommended as an optional dependency to kew. 
