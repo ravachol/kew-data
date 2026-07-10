@@ -50,6 +50,10 @@ kew works just as well without it.
 
 We don't have the capacity to add other artists or indie artists unfortunately, and want the database to remain small.
 
+### If data is wrong
+
+If you see an incorrect homepage or broken link, please create an issue on https://codeberg.org/ravachol/kew-data.
+
 ### About the dataset
 
 - The dataset contains artist names and homepage URLs sourced from Wikidata.
